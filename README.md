@@ -1,4 +1,4 @@
-# Airline-Routing-Planning-Analysis
+# Airline Routing Planning Analysis
 
 Airline Routing Planning Analysis Introduction:  A comprehensive analysis of airline routing and flight planning to gain insights into airline operations, route efficiency, flight pricing trends, and customer demand patterns. This project uses fictional data to explore key aspects of airline route management and optimize route planning strategies.
 
@@ -45,7 +45,7 @@ Airline Routing Planning Analysis Introduction:  A comprehensive analysis of air
    profitability through efficient route planning.
 
 **Next Steps:**
-   - Enhance the analysis by incorporating dynamic pricing models based on demand and seasonality.
-   - Integrate weather data and other external factors to predict flight delays and optimize flight scheduling.
-   - Expand customer analysis by including frequent flyer programs to identify high-value customers and adjust 
+   - Enhance the analysis by incorporating **dynamic pricing models** based on demand and seasonality.
+   - Integrate **weather data** and other external factors to predict flight delays and optimize flight scheduling.
+   - Expand customer analysis by including **frequent flyer programs** to identify high-value customers and adjust 
       route planning accordingly.
